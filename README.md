@@ -1,5 +1,5 @@
 # Comparing the representation of a simple visual stimulus across the cerebellar network
-Analysis code and notebooks for the analysis and figures of the paper \href{https://www.eneuro.org/content/11/7/ENEURO.0023-24.2024}{"Comparing the representation of a simple visual stimulus across the cerebellar network"} (Prat, Petrucco, Štih, Portugues).
+Analysis code and notebooks for the analysis and figures of the paper ["Comparing the representation of a simple visual stimulus across the cerebellar network"](https://www.eneuro.org/content/11/7/ENEURO.0023-24.2024) (Prat, Petrucco, Štih, Portugues).
 
 ## Installation instructions
 
